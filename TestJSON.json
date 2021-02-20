@@ -1,0 +1,17 @@
+{
+	"employee": [{
+			"name": "employee1",
+			"phone": "1234567890",
+			"email": "emp1@example.com",
+			"gender": "Female",
+			"address": "Pune"
+		},
+		{
+			"name": "employee2",
+			"phone": "9876543210",
+			"email": "emp2@example.com",
+			"gender": "Male",
+			"address": "Nagpur"
+		}
+	]
+}
